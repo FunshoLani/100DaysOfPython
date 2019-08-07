@@ -8,4 +8,4 @@ I am taking the automate simple tasks with python tutorial and I completed 5 out
 Day 2 Complete: Though, this happened 4 days after day 1.
 
 Day 3 and Day 4 complete but i mostly followed tutorials and learnt the basic flow concepts: While, For and If.
-I am planning to work on a mini project this weekend for the completion of 7 days of Python.
+I am planning to work on a mini project this weekend for the completion of 7 days of Python. I have completed 8 videos out of 52 as of August 7th 2019.
